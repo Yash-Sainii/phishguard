@@ -4,7 +4,7 @@ PHISHING DETECTION SYSTEM - SETUP & FIX SCRIPT
 One command to fix all issues and prepare for training
 """
 
-import os
+import os 
 import sys
 import subprocess
 
